@@ -7,7 +7,7 @@ Projeto finalizado
 <h1>📘Sobre o que é o Projeto?</h1>
 <p>Este projeto teve como base, um Checkpoint dos alunos de Edge Computing & Computer Systems da Engenharia de Software da FIAP(Faculdade de Informática e Administração Paulista). O objetivo era criar um sensor de luz que alertasse sobre fatores que influenciam a qualidade do vinho, atendendo a uma solicitação de uma vinícola.</p>
 <p>A finalidade principal é proteger os vinhos da vinícola, evitando exposições excessivas à luz, que podem causar degradação nos produtos.</p>
-<p>O projeto consiste em um sistema de monitoramento de luminosidade para termos um controle de luz no ambiente e a partir dos dados que obtivemos do controle da luminosidade podemos alertar a possíveis desastres, quanto aos objetos que devemos proteger, que no caso desse projeto seria os vinhos, além disso ao termos uma indicação não apenas visual(leds), mas também algo sonoro(buzzer) podemos ter um sistema melhor no quesito de percepção aos dados.</p>
+<p>O projeto consiste em um sistema de monitoramento de luminosidade para termos um controle de luz no ambiente e a partir dos dados que obtivemos do controle da luminosidade. Podemos alertar a possíveis desastres, quanto aos objetos que devemos proteger, que no caso desse projeto seria os vinhos. Além disso ao termos uma indicação não apenas visual(leds), mas também algo sonoro(buzzer) podemos ter um sistema melhor no quesito de percepção aos dados.</p>
 <hr></hr>
 <h1>Funcionalidades do Projeto</h1>
 <h2>1. Leitura de Luz</h2>
