@@ -72,6 +72,7 @@ Projeto finalizado
 <li>Resistores ( 1kΩ para os leds; 10kΩ para o ldr)</li>
 
 <h2>Link Vídeo youtube:</h2>
+https://youtu.be/lJx-MtASmEk
 <hr></hr>
 
 <h2>Autores</h2>
